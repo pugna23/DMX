@@ -76,3 +76,7 @@ a,.azul{
 	-moz-animation-delay: 1s;
 	animation-delay: 1s;
 }
+
+hide{
+	display: none;
+}
